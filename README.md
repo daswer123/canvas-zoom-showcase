@@ -1,6 +1,8 @@
 
 # Canvas-zoom extension showcase
 
+This repository is a demonstration of all the [canvas-zoom](https://github.com/richrobber2/canvas-zoom) extension capabilities for [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
 1. [Context menu](#context-menu) 
 2. [Moving canvas](#moving-canvas) 
    - [Move via shift](#move-via-shift) 
