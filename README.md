@@ -22,7 +22,7 @@ This repository is a demonstration of all the [canvas-zoom](https://github.com/r
    - [Brush transparency](#brush-transparency) 
 
 ## For Beginners
-Use the context menu to customize the keys or to switch the movement mode.
+Use the context menu to customize the keys or to switch the [movement mode](#move-via-hotkey) .
 
 Important functions you should know: **[Moving canvas](#moving-canvas)** , **[Zooming canvas](#zooming-canvas)**, **[Undo](#undo-last-action)**, **[Reset zoom](#reset-zoom)**, **[Overlap elements](#toggle-overlap-elements)**  and **[Fit to screen](#fit-to-screen)**
 
