@@ -22,22 +22,21 @@ This repository is a demonstration of all the [canvas-zoom](https://github.com/r
    - [Brush transparency](#brush-transparency) 
 
 ## For Beginners
-Use the context menu to customize the keys or to switch the [movement mode](#move-via-hotkey) .
+Use the context menu to customize the hotkeys.
 
 Important functions you should know: **[Moving canvas](#moving-canvas)** , **[Zooming canvas](#zooming-canvas)**, **[Undo](#undo-last-action)**, **[Reset zoom](#reset-zoom)**, **[Overlap elements](#toggle-overlap-elements)**  and **[Fit to screen](#fit-to-screen)**
-
 
 ## Default hotkeys:
 
 **Shift + click or wheel (hold)** - Move canvas
+
+**F (hold)** - Move canvas 
 
 **Shift + "+" or Shift + "-"** - Scale canvas ( numpad keys also work )
 
 **Shift + wheel** - Scale canvas
 
 **Ctr + wheel** - Change brush size
-
-**F (hold)** - Move canvas (Need to switch move mode)
 
 **S** - Zoom in on the canvas so that it fits into the screen
 
@@ -61,8 +60,7 @@ This application has a context menu that is called by **Right mouse button** , y
 
 In the context menu you can:
 1) Change the hotkeys as you like
-2) Change the movement mode
-3) Adjust the degree of transparency
+2) Adjust the degree of transparency
 
 https://user-images.githubusercontent.com/22278673/230694818-6cb0e66f-b30d-4923-82f1-f434193d67f4.mp4
 
@@ -79,10 +77,7 @@ https://user-images.githubusercontent.com/22278673/230692150-f6e6b1b1-a8fc-4def-
 <br />
 
 ### Move via hotkey <a name="move-via-hotkey"></a>
-If you are annoyed by the traces when you move on shift+wheel, 
-then 
-
-Toggle the move mode and move with the **F** key
+You also can move via hotkey **F** 
 
 https://user-images.githubusercontent.com/22278673/230693840-2796973a-68eb-425e-8b1f-741d67046604.mp4
 
@@ -153,7 +148,7 @@ https://user-images.githubusercontent.com/22278673/230694442-4048601b-b2b7-4a29-
 
 ## Mask transparency <a name="mask-transparency"></a> 
 
-Transparency mode only works in **Inpaint** , transparency mode is not made 100% can be a problem. 
+You can't draw in transparency mode, otherwise there is a chance that one of the lines will be cancelled. Turn off mask transparency mode when you draw. This mode is not stable yet, work will be done to improve it.
 
 You can adjust the mask and brush transparency in the **context menu**.
 
