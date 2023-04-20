@@ -17,6 +17,7 @@ This repository is a demonstration of all the [canvas-zoom](https://github.com/r
    - [Adjust brush size](#adjust-brush-size) 
    - [Fast open color panel](#fast-open-color-panel) 
    - [Open color panel under mouse](#open-color-panel-under-mouse) 
+   - [Enable dropper](#enable-dropper)
 5. [Mask transparency](#mask-transparency)
    - [Canvas transparency](#canvas-transparency) 
    - [Brush transparency](#brush-transparency) 
@@ -45,6 +46,8 @@ Important functions you should know: **[Moving canvas](#moving-canvas)** , **[Zo
 **Q** - Open/Close color panel
 
 **T** - Open color panel right above the mouse. The mouse should be in the image area
+
+**A** - Enable dropper
 
 **O** - Overlap all elements and back
 
@@ -125,6 +128,8 @@ https://user-images.githubusercontent.com/22278673/230694310-6f856cc5-5fdc-4a68-
 
 You can quickly undo the last action on **Ctr+Z**
 
+In the latest update you can now undo lines in a canvas that you have dragged through the buttons (in Sketch or Inpaint Sketch), only the undo hottkey works (Ctr+z by default)
+
 https://user-images.githubusercontent.com/22278673/230695848-f77e790f-3169-4ff2-8403-8ce2a1d00685.mp4
 
 ### Adjust brush size <a name="adjust-brush-size"></a> 
@@ -145,6 +150,11 @@ If you get too close to the image or if you don't want to reach the default loca
 
 https://user-images.githubusercontent.com/22278673/230694442-4048601b-b2b7-4a29-ae41-f34c1dc09772.mp4
 
+### Enable dropper, you can pick color from img <a name="enable-dropper"></a>  
+
+You can quickly select any color with the dropper in Sketch and Inpaint Sketch (Default key is "A")
+
+https://user-images.githubusercontent.com/22278673/233508255-c91391e3-425a-44f5-8b0c-2ee506508560.mp4
 
 ## Mask transparency <a name="mask-transparency"></a> 
 
