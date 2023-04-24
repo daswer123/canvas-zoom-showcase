@@ -21,6 +21,8 @@ This repository is a demonstration of all the [canvas-zoom](https://github.com/r
 5. [Mask transparency](#mask-transparency)
    - [Canvas transparency](#canvas-transparency) 
    - [Brush transparency](#brush-transparency) 
+6. [Extra](#extra)
+   - [Get img sizes button](#get-img-dem)
 
 ## For Beginners
 Use the context menu to customize the hotkeys.
@@ -173,6 +175,12 @@ https://user-images.githubusercontent.com/22278673/230694599-9b4f2585-1c8c-4162-
 On the **V** hotkey you can turn on the transparency mode of the brush.
 
 https://user-images.githubusercontent.com/22278673/230694636-8acb8104-8f64-4860-b394-0fad0006cb12.mp4
+
+## Extra <a name="extra"></a> 
+
+### Button to get the dimensions of the image <a name="get-img-dem"></a> 
+
+https://user-images.githubusercontent.com/22278673/234133537-b83bba34-5747-4cfe-8688-d3a3d5693631.mp4
 
 
 
