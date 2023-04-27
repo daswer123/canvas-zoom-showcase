@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/22278673/230694818-6cb0e66f-b30d-4923-
 
 ### Move via shift <a name="move-via-shift"></a>
 You can move canvas with **shift + wheel (hold)** 
-
+The movement goes where the mouse is pointing
 
 https://user-images.githubusercontent.com/22278673/230692150-f6e6b1b1-a8fc-4def-b0fe-570b8dd4f5d5.mp4
 
@@ -168,7 +168,7 @@ You can adjust the mask and brush transparency in the **context menu**.
 
 On the **C** hotkey you can turn on the transparency mode of the mask.
 
-https://user-images.githubusercontent.com/22278673/230694599-9b4f2585-1c8c-4162-a9da-8a1a9ccd0475.mp4
+https://user-images.githubusercontent.com/22278673/235007645-9c1820a4-4c8e-46fa-9bf8-ca7cadf59aa2.mp4
 
 ### Brush transparency <a name="brush-transparency"></a> 
 
