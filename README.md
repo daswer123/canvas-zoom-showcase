@@ -23,6 +23,7 @@ This repository is a demonstration of all the [canvas-zoom](https://github.com/r
    - [Brush transparency](#brush-transparency) 
 6. [Extra](#extra)
    - [Get img sizes button](#get-img-dem)
+   - [Filling the canvas with color](#fill-canvas)
 
 ## For Beginners
 Use the context menu to customize the hotkeys.
@@ -182,5 +183,10 @@ https://user-images.githubusercontent.com/22278673/230694636-8acb8104-8f64-4860-
 
 https://user-images.githubusercontent.com/22278673/234133537-b83bba34-5747-4cfe-8688-d3a3d5693631.mp4
 
+### Filling the canvas with color <a name="fill-canvas"></a> 
+
+You can fill the canvas with brush color for easy editing if you need to paint from scratch
+
+https://user-images.githubusercontent.com/22278673/235522812-8834d7c1-3a8f-410c-899a-e514b85fcde4.mp4
 
 
