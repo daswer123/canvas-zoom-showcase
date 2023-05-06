@@ -1,5 +1,6 @@
 
-# Canvas-zoom extension showcase
+# This repo has moved to the Wiki in the official canvas-zoom repo [canvas-zoom wiki](https://github.com/richrobber2/canvas-zoom/wiki/Functionality)
+# Canvas-zoom extension showcase 
 
 This repository is a demonstration of all the [canvas-zoom](https://github.com/richrobber2/canvas-zoom) extension capabilities for [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
